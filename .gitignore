@@ -1,0 +1,14 @@
+*.h5
+*.hdf5
+*.pk
+*.pkl
+*.npy
+models/
+data/
+.ipynb_checkpoints/
+LightGBM/
+__pycache__/
+*.csv
+*.hdf5
+*.zip
+.DS_Store
