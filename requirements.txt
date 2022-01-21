@@ -43,7 +43,7 @@ imgaug==0.2.6
 incremental==17.5.0
 ipykernel==4.8.2
 ipympl==0.2.1
-ipython==6.4.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets==7.4.2
 jedi==0.12.1
