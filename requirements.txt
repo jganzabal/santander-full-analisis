@@ -146,7 +146,7 @@ tornado==5.0.2
 tqdm==4.25.0
 traitlets==4.3.2
 Twisted==17.5.0
-ujson==1.35
+ujson==5.2.0
 Unidecode==1.0.22
 urllib3==1.22
 wcwidth==0.1.7
